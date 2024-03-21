@@ -1,3 +1,4 @@
+HEAD
 # Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
 
 ![Copy of Copy of Copy of Fullstack Twitter Clone (6)](https://github.com/AntonioErdeljac/notion-clone-tutorial/assets/23248726/66bcfca3-93bf-4aa4-950d-f98c020e1156)
@@ -70,3 +71,5 @@ npx convex dev
 ```shell
 npm run dev
 ```
+# Notion-Clone
+ 916e27276fcbec58217337057d5424923132f2d1
